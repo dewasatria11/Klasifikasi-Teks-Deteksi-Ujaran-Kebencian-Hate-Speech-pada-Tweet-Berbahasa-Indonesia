@@ -38,14 +38,6 @@ Proyek ini terinspirasi dari isu terkini penyebaran hoax dan hate speech di medi
 - **Matplotlib**, **Seaborn**, **WordCloud** — visualisasi (EDA)
 - **Jupyter Notebook / Google Colab**
 
-## 📁 Struktur Repository
-
-```
-uts-text-classification-hate-speech-indonesia/
-├── UTS_Text_Classification_Hate_Speech_Detection.ipynb   # Notebook utama
-├── README.md
-└── (opsional) data/ atau hasil visualisasi
-```
 
 ## 🚀 Cara Menjalankan Notebook
 
