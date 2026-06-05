@@ -58,24 +58,6 @@ uts-text-classification-hate-speech-indonesia/
    ```
 3. Klik **Runtime → Run All**
 
-### Opsi 2: Jupyter Notebook Lokal
-
-```bash
-# Clone repository
-git clone https://github.com/<username-anda>/uts-text-classification-hate-speech-indonesia.git
-cd uts-text-classification-hate-speech-indonesia
-
-# Buat virtual environment (opsional tapi disarankan)
-python -m venv venv
-source venv/bin/activate   # Linux/Mac
-# venv\Scripts\activate    # Windows
-
-# Install dependencies
-pip install -r requirements.txt   # (jika ada) atau install manual
-
-# Jalankan Jupyter
-jupyter notebook UTS_Text_Classification_Hate_Speech_Detection.ipynb
-```
 
 ## 📈 Hasil Model (Aktual dari Running)
 
