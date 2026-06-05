@@ -117,7 +117,7 @@ Logistic Regression dengan `class_weight='balanced'` memberikan performa terbaik
 NIM: 25917017  
 Mata Kuliah: Analisis Teks  
 Dosen: Dhomas Hatta Fudholi, Ph.D.  
-Universitas (isi sesuai)
+Universitas Islam Indonesia
 
 ---
 
